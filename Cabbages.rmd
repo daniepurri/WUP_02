@@ -42,7 +42,8 @@ We looked at the variables and it looked like we had numerial variable which is 
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
-
+  
+c52 box is higher than the c39 box on the graph showed
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
