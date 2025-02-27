@@ -40,7 +40,7 @@ We looked at the variables and it looked like we had numerial variable which is 
 ### Numerical Descriptive Results
 
 ```{r}
-boxplot(VitC~Cult,data=veggy)
+favstats(VitC~Cult,data=veggy)
 ```
   
 c52 box is higher than the c39 box on the graph showed
