@@ -65,4 +65,5 @@ t.test(VitC~Cult,data=veggy)
 
 # Discussion and Conclusion
 
+We first exained the boxplot for VitC and found the difference in avarege between c39 and c52. I found out that they are statistically different. Then I examened the numerical results in which i found the numerical values for both. To finalize i wrote the hypothesis in resuls in which we rejected the null hypothesis because the chances were extremily low. Making c39 and c52 very different.  
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
